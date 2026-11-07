@@ -497,30 +497,34 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 **Halaman Sales**
 
-
 ***Transaksi***
 
+<img width="642" height="386" alt="WhatsApp Image 2026-11-07 at 22 14 03" src="https://github.com/user-attachments/assets/6b9ae080-a719-4d9b-be14-e9bd32b1f444" />
 
 ***Pelanggan***
 
+<img width="633" height="403" alt="WhatsApp Image 2026-11-07 at 22 14 22" src="https://github.com/user-attachments/assets/8732e934-5233-4650-ab60-cbd73614bcf9" />
 
 ***Kendaraan***
 
 
 ***Servis***
 
+<img width="602" height="461" alt="WhatsApp Image 2026-11-07 at 22 15 31" src="https://github.com/user-attachments/assets/0b565531-a53c-44c2-a299-7cbe0b3b7273" />
 
 ***Spare Part***
 
+<img width="654" height="465" alt="WhatsApp Image 2026-11-07 at 22 15 20" src="https://github.com/user-attachments/assets/c3ccd6f2-455a-4b3d-a1ef-b7fcf77874fb" />
 
 ***Stok Unit***
 
+<img width="733" height="460" alt="WhatsApp Image 2026-11-07 at 22 14 57" src="https://github.com/user-attachments/assets/795b6cb3-2219-4967-b653-d198f19ba227" />
 
 ***Tarif Jasa***
 
+<img width="596" height="488" alt="WhatsApp Image 2026-11-07 at 22 15 10" src="https://github.com/user-attachments/assets/17ebcf4e-50e7-4912-b185-75265f8a3923" />
 
 **Halaman Mekanik**
-
 
 ***Servis***
 
