@@ -467,30 +467,33 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 **Halaman Admin**
 
-
 ***Pelanggan***
 
+<img width="702" height="432" alt="WhatsApp Image 2026-11-07 at 21 57 01" src="https://github.com/user-attachments/assets/874cbfe5-3329-46bc-a715-202b281e8725" />
 
 ***Kendaraan***
 
-
-***Pegawai***
-
+<img width="599" height="464" alt="WhatsApp Image 2026-11-07 at 21 56 48" src="https://github.com/user-attachments/assets/37bc8a7c-a9a2-4993-9113-aefe91b965bc" />
 
 ***Servis***
 
+<img width="771" height="455" alt="WhatsApp Image 2026-11-07 at 21 58 09" src="https://github.com/user-attachments/assets/38d5fa4b-e797-41de-988d-e0b1447af10f" />
 
 ***Spare Part***
 
+<img width="987" height="485" alt="WhatsApp Image 2026-11-07 at 21 55 51" src="https://github.com/user-attachments/assets/cb34d261-3a0f-4e28-a3de-1f596c0f343e" />
 
 ***Stok Unit***
 
+<img width="828" height="461" alt="WhatsApp Image 2026-11-07 at 21 56 28" src="https://github.com/user-attachments/assets/28edb04a-62a6-4ed0-a341-9a08ff2db342" />
 
 ***Tarif Jasa***
 
+<img width="590" height="474" alt="WhatsApp Image 2026-11-07 at 21 56 10" src="https://github.com/user-attachments/assets/bca72e00-699c-4bea-a8bc-a14439913335" />
 
 ***Transaksi***
 
+<img width="634" height="385" alt="WhatsApp Image 2026-11-07 at 21 57 15" src="https://github.com/user-attachments/assets/d892a9af-209d-4254-8987-2493b5b17656" />
 
 **Halaman Sales**
 
@@ -521,15 +524,19 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Servis***
 
+<img width="771" height="455" alt="WhatsApp Image 2026-11-07 at 21 58 09" src="https://github.com/user-attachments/assets/a2eb49d9-62a7-4de2-9db9-291f36f0f678" />
 
 ***Spare Part***
 
+<img width="803" height="414" alt="WhatsApp Image 2026-11-07 at 21 58 32" src="https://github.com/user-attachments/assets/501aec58-eb04-417c-a7a1-ddd6aecd7742" />
 
 ***Tarif Jasa***
 
+<img width="668" height="390" alt="WhatsApp Image 2026-11-07 at 21 58 51" src="https://github.com/user-attachments/assets/8b4ccade-a26e-4e0d-9300-575274d4b89c" />
 
 ***Transaksi***
 
+<img width="645" height="385" alt="WhatsApp Image 2026-11-07 at 21 59 17" src="https://github.com/user-attachments/assets/0e89fa9f-9757-4470-9e1c-cacf6d902288" />
 
 **Halaman Pelanggan**
 
