@@ -107,121 +107,125 @@ Proses dimulai dari pilihan login. Pengguna memasukkan username dan password, la
 
 ### Flowchart Admin
 
-### Menu Utama (Admin)
+**Menu Utama (Admin)**
 
 <img width="2030" height="773" alt="Shift-Menu Utama Admin drawio" src="https://github.com/user-attachments/assets/1fcd68d7-9dcf-4288-91d9-b4f937eadb39" />
 
 Admin melihat delapan menu: kelola pelanggan, kelola unit, kelola suku cadang, kelola kendaraan, dashboard, kelola pegawai, kelola servis, dan kelola transaksi, serta logout. Sistem memeriksa pilihan dan membuka halaman yang sesuai. Pilihan yang tidak ada menampilkan pesan "Pilihan tidak valid".
 
-### Kelola Pelanggan (Admin)
+**Kelola Pelanggan (Admin)**
 
 <img width="1550" height="1574" alt="Shift-Kelola Pelanggan drawio (2)" src="https://github.com/user-attachments/assets/3d4f26ef-6489-4476-ac69-f2572a1cc78e" />
 
 Menu menyediakan tambah, lihat, perbarui, dan hapus. Saat menambah, Admin mengisi nama dan nomor HP, lalu sistem memvalidasi nomor HP sebelum menyimpan. Saat melihat data, sistem memeriksa apakah data ada. Perubahan dilakukan dengan memilih ID pelanggan dan mengisi nomor HP baru. Penghapusan memerlukan konfirmasi dan sistem memeriksa apakah data masih dipakai data lain.
 
-### Kelola Unit (Admin)
+**Kelola Unit (Admin)**
 
 <img width="1378" height="1574" alt="Shift-Kelola Unit drawio (4)" src="https://github.com/user-attachments/assets/b4c82b25-fef5-447f-b46b-ac6809d1de70" />
 
 Admin menambah unit dengan mengisi tipe dan warna, nomor rangka dan nomor mesin, tahun, harga, dan status unit. Data divalidasi sebelum disimpan. Untuk perubahan, Admin memilih ID unit lalu mengisi harga dan status baru. Penghapusan dilakukan setelah konfirmasi.
 
-### Kelola Spare Part (Admin)
+**Kelola Spare Part (Admin)**
 
 <img width="1378" height="1574" alt="Shift-Kelola Spare Part drawio (7)" src="https://github.com/user-attachments/assets/0a54eb44-4485-4d04-a129-e648f609e859" />
 
 Admin menambah spare part dengan mengisi nama, harga, satuan, dan stok. Harga dan stok divalidasi. Perubahan dilakukan dengan memilih ID spare part lalu mengisi harga atau stok baru. Penghapusan dilakukan setelah konfirmasi.
 
-### Kelola Kendaraan (Admin)
+**Kelola Kendaraan (Admin)**
 
 <img width="1378" height="1574" alt="Shift-Kelola Kendaraan drawio (2)" src="https://github.com/user-attachments/assets/d463e186-2f4d-4ddf-8c60-a086df3f4c51" />
 
 Data yang dikelola adalah nomor polisi, tipe, nomor rangka, nomor mesin, tahun, dan ID pelanggan pemilik. Data divalidasi sebelum disimpan. Admin dapat melihat, memperbarui, dan menghapus kendaraan (dengan konfirmasi).
 
-### Dashboard (Admin)
+**Dashboard (Admin)**
 
 <img width="1242" height="2342" alt="Shift-Dashboard drawio (3)" src="https://github.com/user-attachments/assets/b130a9f3-8100-4583-be7f-90fdb202c967" />
 
 Dashboard menyajikan enam informasi: total servis hari ini, pendapatan harian, stok menipis, tren servis tujuh hari, lima suku cadang terlaris, dan performa mekanik. Untuk setiap pilihan, sistem mengambil data dari database, lalu menampilkannya sebagai angka, daftar, atau grafik. Jika data kosong, sistem menampilkan pesan bahwa data belum tersedia.
 
-### Kelola Servis (Admin)
+**Kelola Servis (Admin)**
 
 <img width="1378" height="1344" alt="Shift-Kelola Servis drawio (4)" src="https://github.com/user-attachments/assets/f24d2da2-6f8c-45be-874c-3b3f3c222c25" />
 
 Menu servis untuk Admin terdiri dari lihat, perbarui, dan hapus. Pada pembaruan, Admin memilih ID servis lalu mengisi diagnosis, jasa, dan status. Penghapusan memerlukan konfirmasi.
 
-### Kelola Pegawai
+**Kelola Pegawai**
 
 <img width="1378" height="1574" alt="Shift-Kelola Pegawai drawio (4)" src="https://github.com/user-attachments/assets/02cb9b59-b856-42f3-bdfb-2599546c59a9" />
 
 Admin mengelola nama, nomor HP, alamat, username, password, dan peran pegawai. Saat menambah pegawai, sistem memeriksa bahwa username belum dipakai. Admin juga dapat melihat, memperbarui, dan menghapus data pegawai.
 
-### Kelola Transaksi (Admin)
+**Kelola Transaksi (Admin)**
 
 <img width="1378" height="1764" alt="Shift-Kelola Transaksi drawio (5)" src="https://github.com/user-attachments/assets/ee59f941-3bcd-4da0-994a-b45ee70b54ed" />
 
 Admin dapat membuat transaksi, melihat transaksi, mengubah status pembayaran, dan menghapus transaksi. Saat membuat transaksi, sistem membedakan transaksi unit dan transaksi spare part atau servis. Admin mengisi diskon dan metode pembayaran, sistem memvalidasi pembayaran, menyimpan data, lalu menampilkan nota. Penghapusan transaksi disertai pengembalian stok.
 
-### Flowchart Mekanik
+**Flowchart Mekanik**
 
-### Menu Utama (Mekanik)
+**Menu Utama (Mekanik)**
 
 <img width="1104" height="688" alt="Shift-Menu Utama Mekanik drawio (3)" src="https://github.com/user-attachments/assets/4608c0b3-d946-492e-a3b3-d2e845fe53c2" />
 
 Mekanik memiliki tiga menu: kelola servis, kelola spare part, dan lihat transaksi, serta logout. Pilihan yang tidak sesuai menampilkan pesan kesalahan, dan logout mengembalikan pengguna ke halaman login.
 
-### Kelola Servis (Mekanik)
+**Kelola Servis (Mekanik)**
 
+<img width="1666" height="1197" alt="Shift-Kelola Servis drawio (5)" src="https://github.com/user-attachments/assets/e42fb970-0aa7-48ed-91b1-6de3cd5b2867" />
 
 Menu terdiri dari terima servis, lihat data servis, dan proses servis. Saat menerima servis, Mekanik memasukkan nomor polisi. Jika kendaraan terdaftar, Mekanik mengisi kilometer, keluhan, nama jasa, dan harga jasa, lalu data disimpan dengan status aktif. Jika belum terdaftar, sistem meminta pengguna menghubungi Sales atau Admin. Saat memproses servis, Mekanik memilih servis aktif, mengisi diagnosis, jasa, dan harga, lalu memasukkan spare part dan jumlah yang dipakai. Sistem memeriksa kecukupan stok, dan status servis disimpan sebagai dikerjakan atau selesai.
 
-### Kelola Spare Part (Mekanik)
+**Kelola Spare Part (Mekanik)**
 
 <img width="1378" height="975" alt="Shift-Kelola Spare Part drawio (8)" src="https://github.com/user-attachments/assets/c9765ddf-c470-46a6-a972-f790dedd5926" />
 
 Mekanik dapat melihat data spare part dan memperbarui harga atau stok dengan memilih ID spare part yang valid.
 
-### Kelola Transaksi (Mekanik)
+**Kelola Transaksi (Mekanik)**
 
+<img width="1871" height="1152" alt="Shift-Kelola Transaksi  drawio" src="https://github.com/user-attachments/assets/9e14e444-d8be-4b3e-bf56-162d0155f0bc" />
 
 Mekanik dapat melihat daftar transaksi dan mengubah status pembayaran dengan memilih ID transaksi lalu status barunya.
 
-### Flowchart Sales
+**Flowchart Sales**
 
-### Menu Utama (Sales)
+**Menu Utama (Sales)**
 
 <img width="1862" height="756" alt="Shift-Menu Utama Sales drawio (3)" src="https://github.com/user-attachments/assets/fdc2a49a-b780-4b26-a34d-342b97d83ef0" />
 
 Sales memiliki tujuh menu: kelola pelanggan, kelola kendaraan, kelola unit, kelola spare part, penjualan unit, penjualan spare part, dan kelola transaksi, serta logout.
 
-### Kelola Pelanggan (Sales)
+**Kelola Pelanggan (Sales)**
 
 <img width="1378" height="1202" alt="Shift-Kelola Pelanggan drawio (3)" src="https://github.com/user-attachments/assets/017dde39-bfd7-4c79-a29e-b74bcf5c2a67" />
 
 Sales dapat menambah pelanggan (nama dan nomor HP yang divalidasi), melihat data, dan memperbarui nomor HP berdasarkan ID pelanggan. Sales tidak dapat menghapus data.
 
-### Kelola Kendaraan (Sales)
+**Kelola Kendaraan (Sales)**
 
+<img width="1848" height="1435" alt="Shift-Kelola Kendaraan drawio (3)" src="https://github.com/user-attachments/assets/32cda8d7-dfe2-4dc8-ad53-7e99d8edda5d" />
 
 Sales menambah kendaraan pelanggan (nomor polisi, tipe, nomor rangka, nomor mesin, tahun, dan ID pelanggan) dengan validasi, melihat daftar kendaraan, dan memperbarui data kendaraan.
 
-### Kelola Unit (Sales)
+**Kelola Unit (Sales)**
 
 <img width="1378" height="1202" alt="Shift-Kelola Unit drawio (5)" src="https://github.com/user-attachments/assets/5a75f870-32d3-4a1b-85a2-4a1233f48c83" />
 
 Sales menambah unit dengan mengisi tipe, warna, nomor rangka, nomor mesin, tahun, harga, dan status. Sales juga dapat melihat unit dan memperbarui harga atau status.
 
-### Kelola Spare Part (Sales)
+**Kelola Spare Part (Sales)**
 
+<img width="1780" height="1224" alt="Shift-Kelola Spare Part drawio (9)" src="https://github.com/user-attachments/assets/77c52de1-c54a-45c7-a426-ab76bd690391" />
 
 Menu ini menyediakan dua pilihan, yaitu melihat data spare part dan memperbarui data spare part. Pada proses melihat data, sistem memeriksa data yang tersimpan dan menampilkannya, atau menampilkan pesan bahwa data belum ada. Pada proses pembaruan, Sales memilih ID spare part, sistem memeriksa validitasnya, lalu Sales mengisi harga atau stok baru yang kemudian disimpan ke database.
 
-### Penjualan Unit
+**Penjualan Unit**
 
 <img width="1766" height="402" alt="Shift-Penjualan Unit drawio (2)" src="https://github.com/user-attachments/assets/da53dfb2-cd59-4866-8642-b64faeedfcf0" />
 
 Sales memilih pelanggan dan unit, lalu sistem memeriksa ketersediaan unit. Jika tersedia, Sales mengisi diskon dan metode pembayaran, dan sistem memvalidasi pembayaran. Jika valid, sistem menjalankan BEGIN, menyimpan transaksi, dan memperbarui stok unit secara otomatis. Bila seluruh proses berhasil, sistem melakukan COMMIT dan mencetak nota. Bila gagal, sistem melakukan ROLLBACK dan menampilkan pesan bahwa transaksi dibatalkan.
 
-### Penjualan Spare Part
+**Penjualan Spare Part**
 
 <img width="1766" height="402" alt="Shift-Penjualan Spare Part drawio (1)" src="https://github.com/user-attachments/assets/da6f8047-07f1-469b-94ff-546121f9881d" />
 
