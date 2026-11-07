@@ -493,7 +493,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Transaksi***
 
-<img width="634" height="385" alt="WhatsApp Image 2026-11-07 at 21 57 15" src="https://github.com/user-attachments/assets/d892a9af-209d-4254-8987-2493b5b17656" />
+<img width="772" height="476" alt="WhatsApp Image 2026-11-07 at 22 10 51" src="https://github.com/user-attachments/assets/022c8732-915e-4839-8c25-e5b8750519fc" />
 
 **Halaman Sales**
 
