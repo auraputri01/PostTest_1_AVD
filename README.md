@@ -536,7 +536,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Transaksi***
 
-<img width="645" height="385" alt="WhatsApp Image 2026-11-07 at 21 59 17" src="https://github.com/user-attachments/assets/0e89fa9f-9757-4470-9e1c-cacf6d902288" />
+<img width="643" height="356" alt="WhatsApp Image 2026-11-07 at 22 05 00" src="https://github.com/user-attachments/assets/8d2b08d4-0a3a-4443-a49b-e8c9f6b5ac6f" />
 
 **Halaman Pelanggan**
 
