@@ -477,7 +477,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Servis***
 
-<img width="771" height="455" alt="WhatsApp Image 2026-11-07 at 21 58 09" src="https://github.com/user-attachments/assets/38d5fa4b-e797-41de-988d-e0b1447af10f" />
+<img width="759" height="492" alt="WhatsApp Image 2026-11-07 at 21 55 21" src="https://github.com/user-attachments/assets/5f12bc73-ac2b-4f7b-82f7-9125f9007aa6" />
 
 ***Spare Part***
 
