@@ -469,27 +469,31 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Pelanggan***
 
-<img width="702" height="432" alt="WhatsApp Image 2026-11-07 at 21 57 01" src="https://github.com/user-attachments/assets/874cbfe5-3329-46bc-a715-202b281e8725" />
+<img width="572" height="448" alt="WhatsApp Image 2026-11-07 at 22 31 02" src="https://github.com/user-attachments/assets/e58ee70e-c412-48be-91a1-dc2eb5813e48" />
+
+***Pegawai***
+
+<img width="575" height="447" alt="WhatsApp Image 2026-11-07 at 22 32 33" src="https://github.com/user-attachments/assets/f0a0293f-7110-451a-87fa-cb056c7e9eaa" />
 
 ***Kendaraan***
 
-<img width="599" height="464" alt="WhatsApp Image 2026-11-07 at 21 56 48" src="https://github.com/user-attachments/assets/37bc8a7c-a9a2-4993-9113-aefe91b965bc" />
+<img width="571" height="444" alt="WhatsApp Image 2026-11-07 at 22 31 26" src="https://github.com/user-attachments/assets/06a61d02-b2d5-4085-ad98-38a65bc1191e" />
 
 ***Servis***
 
-<img width="759" height="492" alt="WhatsApp Image 2026-11-07 at 21 55 21" src="https://github.com/user-attachments/assets/5f12bc73-ac2b-4f7b-82f7-9125f9007aa6" />
+<img width="594" height="444" alt="WhatsApp Image 2026-11-07 at 22 32 22" src="https://github.com/user-attachments/assets/8f7ed8d7-6e81-406a-9ac5-724505eea422" />
 
 ***Spare Part***
 
-<img width="987" height="485" alt="WhatsApp Image 2026-11-07 at 21 55 51" src="https://github.com/user-attachments/assets/cb34d261-3a0f-4e28-a3de-1f596c0f343e" />
+<img width="589" height="445" alt="WhatsApp Image 2026-11-07 at 22 32 09" src="https://github.com/user-attachments/assets/31398ada-c4b8-4916-9c3f-6fb26953d0a1" />
 
 ***Stok Unit***
 
-<img width="828" height="461" alt="WhatsApp Image 2026-11-07 at 21 56 28" src="https://github.com/user-attachments/assets/28edb04a-62a6-4ed0-a341-9a08ff2db342" />
+<img width="572" height="444" alt="WhatsApp Image 2026-11-07 at 22 31 43" src="https://github.com/user-attachments/assets/2472b8b2-8876-4e37-8a94-b04cab9a53f1" />
 
 ***Tarif Jasa***
 
-<img width="590" height="474" alt="WhatsApp Image 2026-11-07 at 21 56 10" src="https://github.com/user-attachments/assets/bca72e00-699c-4bea-a8bc-a14439913335" />
+<img width="573" height="467" alt="WhatsApp Image 2026-11-07 at 22 31 56" src="https://github.com/user-attachments/assets/85b1ab4d-d20f-4f6a-a6d5-56997829b67c" />
 
 ***Transaksi***
 
@@ -507,6 +511,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ***Kendaraan***
 
+<img width="643" height="453" alt="WhatsApp Image 2026-11-07 at 22 28 50" src="https://github.com/user-attachments/assets/494792da-9f6e-497f-85ce-2327bc307369" />
 
 ***Servis***
 
