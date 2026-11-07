@@ -544,17 +544,13 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ## Kontributor
 
-Nama: Muhammad Dylan Al Furqon 
-NIM: 2509116038
+1. Muhammad Dylan Al Furqon (2509116038)
 
-Nama: Akhmad Rafliansyah 
-NIM: 2509116045
+2. Akhmad Rafliansyah (2509116045)
 
-Nama: Andhika Fhariel Fadhlurrohman 
-NIM: 2509116083
+3. Andhika Fhariel Fadhlurrohman (2509116083)
 
-Nama: Aura Putri Anandita Syarif 
-NIM: 2509116094
+4. Aura Putri Anandita Syarif (2509116094)
 
 
 
