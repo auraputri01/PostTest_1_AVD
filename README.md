@@ -424,18 +424,137 @@ Detail teknis akses database disembunyikan di lapisan DAO dan Koneksi. Controlle
 
 ============================================================================
 
+## Langkah Penggunaan
+
+**Login**
+
+- Isi Username dan Password pada halaman login. Centang Lihat Password untuk menampilkan password yang diketik.
+- Tekan tombol LOGIN. Jika kolom kosong atau akun salah, sistem menampilkan pesan peringatan.
+- Setelah berhasil, pengguna masuk ke menu sesuai perannya. Setiap menu memiliki baris tab di bagian atas untuk berpindah antar halaman, serta tombol LOGOUT untuk keluar.
+
+**Sebagai Admin**
+
+- Halaman Admin memiliki tab: Transaksi, Pelanggan, Kendaraan, Stok Unit, Tarif Jasa, Spare Part, Servis, dan Pegawai, serta tombol DASHBOARD.
+- Pada setiap halaman, tabel di sisi kiri menampilkan data dan formulir di sisi kanan dipakai untuk mengisi data. Tombol + Tambah menyimpan data baru, Ubah memperbarui data yang dipilih, dan Hapus menghapus data yang dipilih.
+- Di halaman Pegawai, Admin menambah akun Sales atau Mekanik dengan mengisi nama, telepon, alamat, username, password, serta memilih peran dan status.
+- Di halaman Transaksi, gunakan + Tambah Transaksi, Lihat Detail, Ubah Pembayaran, dan Hapus.
+
+**Sebagai Sales**
+
+- Halaman Sales memiliki tab: Transaksi, Pelanggan, Kendaraan, Stok Unit, Tarif Jasa, Spare Part, dan Servis.
+- Daftarkan pelanggan dan kendaraannya pada halaman Pelanggan dan Kendaraan.
+- Kelola stok unit dan spare part pada halaman Stok Unit dan Spare Part.
+- Buat transaksi penjualan di halaman Transaksi dengan tombol + Tambah Transaksi, lalu gunakan Ubah Pembayaran untuk memperbarui status pembayaran.
+
+**Sebagai Mekanik**
+
+- Halaman Mekanik memiliki tab: Transaksi, Tarif Jasa, Spare Part, dan Servis.
+- Pada halaman Servis, isi data servis (tanggal, nomor plat, kilometer, keluhan, diagnosis, rekomendasi, dan mekanik), lalu tekan Ubah untuk memperbarui.
+- Pada halaman Spare Part, lihat dan perbarui data spare part yang dipakai.
+- Pada halaman Transaksi, lihat transaksi dengan Lihat Detail atau perbarui status dengan Ubah Pembayaran.
+
+**Sebagai Pelanggan**
+
+- Halaman Profil Saya menampilkan nama, nomor telepon, dan username. Tekan Simpan Perubahan untuk menyimpan atau Batal untuk membatalkan.
+- Halaman Riwayat Transaksi menampilkan daftar transaksi milik pelanggan.
+
+Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
+
+### Dokumentasi GUI
+
+**Login**
 
 
+**Halaman Admin**
 
 
+***Pelanggan***
 
 
+***Kendaraan***
 
 
+***Pegawai***
 
 
+***Servis***
 
 
+***Spare Part***
+
+
+***Stok Unit***
+
+
+***Tarif Jasa***
+
+
+***Transaksi***
+
+
+**Halaman Sales**
+
+
+***Transaksi***
+
+
+***Pelanggan***
+
+
+***Kendaraan***
+
+
+***Servis***
+
+
+***Spare Part***
+
+
+***Stok Unit***
+
+
+***Tarif Jasa***
+
+
+**Halaman Mekanik**
+
+
+***Servis***
+
+
+***Spare Part***
+
+
+***Tarif Jasa***
+
+
+***Transaksi***
+
+
+**Halaman Pelanggan**
+
+
+***Profil Saya***
+
+
+***Riwayat Transaksi***
+
+
+============================================================================
+
+## Kontributor
+
+Nama: Muhammad Dylan Al Furqon 
+NIM: 2509116038
+
+Nama: Akhmad Rafliansyah 
+NIM: 2509116045
+
+Nama: Andhika Fhariel Fadhlurrohman 
+NIM: 2509116083
+
+Nama: Aura Putri Anandita Syarif 
+NIM: 2509116094
 
 
 
