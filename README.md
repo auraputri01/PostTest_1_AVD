@@ -542,7 +542,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 ============================================================================
 
-## Kontributor
+## Kontributor 
 
 1. Muhammad Dylan Al Furqon (2509116038)
 
